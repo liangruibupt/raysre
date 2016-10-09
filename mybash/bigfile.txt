@@ -1,0 +1,6 @@
+3c3
+< User3 US
+---
+> User3 CN
+#!/bin/bash
+diff File1.txt File2.txt | tee diff_out
